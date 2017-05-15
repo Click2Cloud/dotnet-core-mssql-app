@@ -1,6 +1,7 @@
 # Overview
 
-This is a demo application created to show how SQL Server can operate on OpenShift Container Platform. 
+This is a demo application created to show how SQL Server can operate on OpenShift Container Platform.
+
  
 ## Project Content
 
